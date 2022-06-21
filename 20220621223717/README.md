@@ -19,6 +19,9 @@
 - Answers to the worlds woes is to learn how to filter out the bad stuff that is everywhere
 - Luhmann's Zettelkasten method
 - Purpose of Zet is to adhoc something so you can go back to it later
+- Licenses
+  - Apache is the best because you can use stuff you build at work
+  -
 
 ## Conventions
 
