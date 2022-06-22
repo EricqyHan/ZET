@@ -19,9 +19,17 @@
 - Answers to the worlds woes is to learn how to filter out the bad stuff that is everywhere
 - Luhmann's Zettelkasten method
 - Purpose of Zet is to adhoc something so you can go back to it later
+- Avoid subheadings (which are more for posts)
 - Licenses
   - Apache is the best because you can use stuff you build at work
-  -
+
+## Good to know
+
+- A zet is a knowledge node. A knowlege node is directory with readme.md and other files that are optional.
+
+## What is markdown?
+
+-
 
 ## Conventions
 
@@ -31,3 +39,17 @@
 
 (Zet)[https://zettelkasten.de/]
 (Creative Commons)[https://creativecommons.org/choose/]
+(RWX Markdown)[https://rwx.gg/lang/md/]
+
+
+  ~~~markdown
+
+  Here is *some* markdown.
+
+  ```js
+
+  console.log('hello example')
+
+  ```
+
+  ~~~
