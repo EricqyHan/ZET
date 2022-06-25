@@ -24,19 +24,33 @@
 ## Commands to know
 
 `ip a` show all ip addresses
+
 `ipconfig /all`
+
 `clear` clears the screen
+
 `which ssh` display full path to ssh program
+
 `type ssh` display what type of thing it is
+
 `who` display who is logged in and how
+
 `w` displays logger version of who is logged in
+
 `user` short name of all name of logged in user
+
 `last` summary of last logged in users
+
 `whoami` print effective user name/ID
+
 `exit` exit the current program or login or shell
+
 `| less` or `| more` - see scrolling off screen
+
 `apt search ssh | less` - look through all ssh
+
 `service sshd status` - tell you how long something has been running for
+
 `ssh user@ip` - headless start
 
 ## Notes
@@ -79,10 +93,11 @@
   - Security
   - Need to know how to harden your server
 - Headless systems
-  - 
+  -
 
 ## Things to watch or do
+
 - Create a Digital Ocean Account and create a VM on there
-- 
+-
 
 ## Readings
